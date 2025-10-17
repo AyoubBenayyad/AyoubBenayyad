@@ -15,3 +15,4 @@ I'm a Full Stack Developer passionate about Java, Spring Boot, and React.
 ## 🧠 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubBenayyad&layout=compact&theme=radical)](https://github.com/AyoubBenayyad)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubBenayyad&layout=compact&theme=radical_format=bytes)
